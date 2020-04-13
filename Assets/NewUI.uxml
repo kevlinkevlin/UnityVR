@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Button text="Button" class="unity-base-field" style="width: 80%;&#10;right: auto;&#10;left: 10%;&#10;align-items: flex-start;&#10;justify-content: flex-start;&#10;position: relative;&#10;flex-direction: column;&#10;-unity-text-align: upper-center;&#10;white-space: normal;&#10;color: rgba(255, 0, 0, 255);&#10;-unity-font-style: normal;&#10;">
+        <Style src="NewUI.uss" />
+    </ui:Button>
+    <ui:VisualElement>
+        <Style src="NewUI.uss" />
+    </ui:VisualElement>
+</ui:UXML>
