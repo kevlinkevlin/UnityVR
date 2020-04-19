@@ -13,6 +13,9 @@
 >>  ".sln檔"  
 
 > 刪除後重開編輯器就可以恢復正常  
-  
 
-<!-- <img src="https://miro.medium.com/max/2548/1*-AIL7LvZTUr9Kx1vbahoDA.png" /> -->
+Game Demo:  
+![](game.JPG "demo")  
+
+
+
